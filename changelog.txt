@@ -1,6 +1,9 @@
 Change Log for C64 texture packs
 ================================
 
+2012-06-06 (even later): added in missing nyancats, weakly upscaled to 
+take advantage of C64-esque resoluton.
+
 2012-06-06 (a bit later): added support for bobblocks and particles mods 
 to the 64px version.
 
