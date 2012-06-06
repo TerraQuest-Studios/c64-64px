@@ -1,0 +1,7 @@
+This texture pack aims to create a Commodore 64 8-bit style environment for 
+Minetest.  All images herein are hand-drawn, based on the overall style 
+used in my photorealistic packs (but of course limited to what a C64 
+could theoretically display).
+
+Put the Vanessa_* folder wherever you want to keep your texture packs, 
+and edit ~/.minetest/minetest.conf to point to it.
