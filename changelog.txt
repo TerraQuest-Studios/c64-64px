@@ -1,6 +1,9 @@
 Change Log for C64 texture packs
 ================================
 
+2012-06-06 (continuing): fixed missing RGB mode and alpha channels on 
+some moreores minerals and on iron and coal.
+
 2012-06-06 (even later): added in missing nyancats, weakly upscaled to 
 take advantage of C64-esque resoluton.
 
