@@ -1,6 +1,9 @@
 Change Log for C64 texture packs
 ================================
 
+2012-06-06 (a bit later): added support for bobblocks and particles mods 
+to the 64px version.
+
 2012-06-06: Added 64px version, with support for game's defaults as well 
 as darkrose's active furnaces patch and the moreores, moreblocks, and 
 blox mods.
