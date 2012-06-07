@@ -1,6 +1,8 @@
 Change Log for C64 texture packs
 ================================
 
+2012-06-07:  Added support to 64px pack for maptools and wool (32 color) mods.
+
 2012-06-06 (continuing): fixed missing RGB mode and alpha channels on 
 some moreores minerals and on iron and coal.
 
