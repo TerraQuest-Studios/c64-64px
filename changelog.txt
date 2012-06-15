@@ -1,6 +1,8 @@
 Change Log for C64 texture packs
 ================================
 
+2012-06-14: Brought Blox support up to date.
+
 2012-06-07 (a bit later): cleaned up handles of all picks, looks better 
 without the black edging.
 
